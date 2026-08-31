@@ -39,7 +39,7 @@ except ImportError:
 # 1. SETUP & CONFIGURATION
 # ==========================================
 load_dotenv()
-BOT_TOKEN = "8647892164:AAF84mpiTEZr7iT3JFiS9BNrKpQFTJc2SSI"
+BOT_TOKEN = "8647892164:AAGmtIkka0kaRNSpXpkCGB1QoCU95cK2254"
 
 bot = AsyncTeleBot(BOT_TOKEN, parse_mode='HTML') 
 bot_username = ""
